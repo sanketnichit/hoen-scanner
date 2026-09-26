@@ -1,4 +1,12 @@
-.idea/*
-!.idea/runConfigurations/
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
 target/
-hoen-scanner.iml
+
+# Generated Maven artifact
+dependency-reduced-pom.xml
+
+# OS files
+.DS_Store
